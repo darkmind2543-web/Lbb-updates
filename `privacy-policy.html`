@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy — Language Barrier Breaker</title>
+<style>
+body { font-family: -apple-system, sans-serif; max-width: 700px; margin: 40px auto; padding: 0 20px; line-height: 1.6; color: #333; }
+h1 { color: #1a1a2e; }
+h2 { color: #1a1a2e; margin-top: 30px; }
+ul { padding-left: 20px; }
+li { margin-bottom: 8px; }
+.updated { color: #888; font-size: 0.9em; }
+</style>
+</head>
+<body>
+<h1>Privacy Policy for Language Barrier Breaker</h1>
+<p class="updated">Last updated: October 11, 2026</p>
+<p>We do not collect, store, or transmit any personal data. No accounts, no analytics, no tracking. Translation happens entirely on your device.</p>
+<h2>Internet Usage</h2>
+<p>The app uses the internet only for:</p>
+<ul>
+<li>Checking for updates (no personal data sent)</li>
+<li>Opening donation/Discord links in your browser</li>
+<li>Support chat messages you choose to send</li>
+</ul>
+<h2>Permissions</h2>
+<ul>
+<li><strong>Microphone</strong> — voice translation and ambient listening, on-device only</li>
+<li><strong>Camera</strong> — text recognition from photos, on-device only</li>
+<li><strong>Notifications</strong> — Thursday witch reminder, if enabled</li>
+<li><strong>Background microphone service</strong> — keeps Listen running when the app is in the background</li>
+<li><strong>Exact alarms</strong> — schedules the Thursday witch reminder reliably</li>
+<li><strong>Internet</strong> — update checks, donation/Discord links, support chat (you choose)</li>
+<li><strong>Network state</strong> — checks if you're online before trying online features</li>
+</ul>
+<p>No audio, images, or translations leave your device.</p>
+<h2>Contact</h2>
+<p>Questions? Email: darkmind2543@gmail.com</p>
+</body>
+</html>
